@@ -1,7 +1,6 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "Dual-GPU-Passthrough-Desktop": "Desktop (Dual GPU-Passthrough)",
   "about": {
     "title": "About",
     "type": "page"
