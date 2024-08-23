@@ -1,6 +1,10 @@
 {
   "index": "Introduction",
-  "Motherboard": "How to buy a Motherboard",
-  "CPU": "How to buy a CPU",
-  "GPU": "How to buy a GPU"  
+  "Motherboard": "Choosing Motherboard",
+  "CPU": "Selecting a CPU",
+  "GPU": "Choosing a GPUs",
+  "Optional-device": "Optional device",
+  "BIOS": "Enabling Virtualization in BIOS",
+  "Bootloader-enable-distro": "Enabling Virtualization in the Bootloader",
+  "Passthrough-GPU": "Passthrough the Second GPU"
 }
