@@ -2,6 +2,8 @@
 
 This document contains comprehensive information about GPU-Passthrough. It was created using [Nextra](https://nextra.site).
 
+![pages](./screenshots/pages.png)
+
 ## Local Development
 
 First, run `pnpm i` to install the dependencies.
