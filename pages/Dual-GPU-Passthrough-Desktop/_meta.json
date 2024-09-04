@@ -6,5 +6,6 @@
   "Optional-device": "Optional device",
   "BIOS": "Enabling Virtualization in BIOS",
   "Bootloader-enable-distro": "Enabling Virtualization in the Bootloader",
-  "Passthrough-GPU": "Passthrough the Second GPU"
+  "Passthrough-GPU": "Passthrough the Second GPU",
+  "Install-require-packages": "Installing require packages" 
 }
