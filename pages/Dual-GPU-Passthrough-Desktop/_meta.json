@@ -8,6 +8,9 @@
   "Bootloader-enable-distro": "Enabling Virtualization in the Bootloader",
   "Passthrough-GPU": "Passthrough the Second GPU",
   "Install-require-packages": "Installing require packages",
-  "Configuring-libvirt": "Configuring libvirt",
-  "Download-OS": "Downloading Opearing System" 
+  "Configuring-Libvirt": "Configuring Libvirt",
+  "Download-OS": "Downloading Opearing System",
+  "InstallOS-win10": "Installing Windows 10",
+  "InstallOS-win11": "Installing Windows 11",
+  "InstallOS-GNU-Linux": "Installing GNU/Linux"
 }
