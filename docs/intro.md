@@ -2,46 +2,21 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Hi, welcome to our website! Here, you'll find everything you need to know about GPU passthrough.
 
-## Getting Started
+## So, what exactly is GPU passthrough?
+> **In short, GPU passthrough lets you pass your real GPU into a virtual machine.**
 
-Get started by **creating a new site**.
+Not a virtual GPU. This means the virtual machine gets direct access to the physical GPU.
+Play games or run applications within that virtual machine. 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Why? It sounds stupid.
 
-### What you'll need
+I always got a similar question. Here are some answers:
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- It's more secure and you don't need to install an OS on your computer. Everything runs in the virtual machine.
+- You don't want to have two operating systems on your computer because it takes up space.
+- You hate Windows and some software on Windows is more stable than on GNU/Linux. (like DaVinci Resolve)
+- You're doing some production testing and need a GPU environment to install another GNU/Linux distro.
