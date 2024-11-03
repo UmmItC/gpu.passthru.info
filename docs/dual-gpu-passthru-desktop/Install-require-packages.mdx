@@ -32,10 +32,10 @@ I’ve noticed that the `qemu` package names have changed over time. Previously,
 To ensure already cover all the requirements, you should also install the following packages:
 
 ```shell
-sudo pacman -S qemu-hw-display-qxl qemu-hw-display-virtio-vga qemu-hw-usb-redirect qemu-audio-spice qemu-hw-usb-host libusb
+sudo pacman -S qemu-hw-display-qxl qemu-hw-display-virtio-vga qemu-hw-usb-redirect qemu-audio-spice qemu-hw-usb-host qemu-chardev-spice
 ```
 
-These packages provide support for display QXL, VGA, USB redirection, and audio spice. Without these, you might encounter errors or find that some functions don’t work properly.
+These packages provide support for display QXL, VGA, USB redirection, audio spice and spicevmc. Without these, you might encounter errors or find that some functions don’t work properly.
 
 ## Next Steps: Configuring Libvirt Permissions
 
