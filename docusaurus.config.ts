@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'GPU Passthrough Made Easy',
   tagline: 'Made GPU-Passthru easy, for everyone. Just follow the guide!',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/gpu.png',
 
   // Set the production url of your site here
   url: 'https://gpu-passthru.ummit.dev',
@@ -69,7 +69,7 @@ const config: Config = {
       title: 'gpu-passthru',
       logo: {
         alt: 'gpu-passthru Logo',
-        src: 'img/logo.svg',
+        src: 'img/gpu.png',
       },
       items: [
         {
