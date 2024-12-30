@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
     Image: image2,
     description: (
       <>
-        You don't want to have two operating systems on your computer because it takes up space.
+        You don't want to install two operating systems on your computer because it takes up space.
       </>
     ),
   },
